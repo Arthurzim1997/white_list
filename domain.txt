@@ -1,6 +1,5 @@
 #===================  CUSTOM  ===================
 # > ping-test
-@@||gstatic.com^
 @@||cp.cloudflare.com^
 # > autodesk
 @@||autodesk.com^
