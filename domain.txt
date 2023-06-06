@@ -2,6 +2,11 @@
 # > ping-test
 @@||gstatic.com^
 @@||cp.cloudflare.com^
+# > autodesk
+@@||autodesk.com^
+@@||accounts.autodesk.com^
+@@||developer.api.autodesk.com^
+@@||api.autodesk.com^
 # > github
 @@||atom.io^
 @@||dependabot.com^
@@ -23,11 +28,14 @@
 @@||opensource.guide^
 @@||repo.new^
 @@||thegithubshop.com^
-# > autodesk
-@@||autodesk.com^
-@@||accounts.autodesk.com^
-@@||developer.api.autodesk.com^
-@@||api.autodesk.com^
+# > Gitlab
+@@||gitlab.com^
+@@||gitlab.io^
+@@||gitlab.net^
+@@||gitlab-static.net^
+# > Gitbook
+@@||gitbook.com^
+@@||gitbook.io^
 #
 #
 #===================  GOOGLE-SCHOLAR  ===================
