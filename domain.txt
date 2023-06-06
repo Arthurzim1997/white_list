@@ -1,0 +1,5 @@
+@@||s.youtube.com^
+@@||pagead2.googlesyndication.com^
+@@||ads.google.com^
+@@||adservice.google.com^
+@@||googleadservices.com^
