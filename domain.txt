@@ -2,11 +2,6 @@
 # > ping-test
 @@||gstatic.com^
 @@||cp.cloudflare.com^
-# > google
-@@||pagead2.googlesyndication.com^
-@@||ads.google.com^
-@@||adservice.google.com^
-@@||googleadservices.com^
 # > github
 @@||github.com
 # > autodesk
