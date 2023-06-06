@@ -3,7 +3,26 @@
 @@||gstatic.com^
 @@||cp.cloudflare.com^
 # > github
-@@||github.com
+@@||atom.io^
+@@||dependabot.com^
+@@||ghcr.io^
+@@||git.io^
+@@||github.blog^
+@@||github.com^
+@@||github.community^
+@@||github.dev^
+@@||github.io^
+@@||githubapp.com^
+@@||githubassets.com^
+@@||githubhackathon.com^
+@@||githubpreview.dev^
+@@||githubstatus.com^
+@@||githubuniverse.com^
+@@||githubusercontent.com^
+@@||myoctocat.com^
+@@||opensource.guide^
+@@||repo.new^
+@@||thegithubshop.com^
 # > autodesk
 @@||autodesk.com^
 @@||accounts.autodesk.com^
