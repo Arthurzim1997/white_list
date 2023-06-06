@@ -13,6 +13,7 @@
 @@||autodesk.com^
 @@||accounts.autodesk.com^
 @@||developer.api.autodesk.com^
+@@||api.autodesk.com^
 #
 #
 #===================  SPEEDTEST  ===================
